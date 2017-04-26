@@ -1,0 +1,14 @@
+[
+{
+  "name":"columbus",
+  "forecast":[40, 50, 65, 60, 70]
+},
+{
+"name":"cleveland",
+"forecast":[35, 55, 60, 45, 65]
+},
+{
+"name":"cincinnati",
+"forecast":[35, 60, 65, 45, 65]
+}
+]
